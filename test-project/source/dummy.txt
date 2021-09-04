@@ -1,0 +1,5 @@
+avoid memory leak.
+
+reference counter is used for avoiding memory leak.
+
+Removing article from JDictionaryPane also costs many for previous segment.
